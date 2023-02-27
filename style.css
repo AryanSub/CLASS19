@@ -1,0 +1,17 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+body{
+    text-align: center;
+    background:linear-gradient(rgba(0, 0, 0, 0.452),rgba(0, 0, 0, 0.342)),url(./images/img1.jpg) ;
+    background-size: cover;
+}
+
+main{
+    background-color: rgba(81, 195, 195, 0.688);
+    color:white;
+    padding:20px;
+
+}

@@ -1,0 +1,61 @@
+body{
+    background: url(../images/img17.jpg);
+    text-align: center;
+    background-size: cover;
+    margin: 0px;
+
+}
+
+
+
+
+main{
+    background-color: sandybrown;
+    display: flex;
+    align-self: center;
+    align-items: center;
+    margin: 0px;
+    padding: 10px;
+}
+
+#contact{
+    
+}
+
+div{
+    padding: 20px;
+    margin: 10px 0;
+}
+
+
+label{
+    margin-right: 20px;
+    font-size: 21px;
+}
+
+
+
+form{
+    background-color: rgba(173, 216, 230, 0.834);
+    width:50%;
+    margin: 0 auto;
+}
+
+#icon{
+    width:50px;
+    height: 50px;
+    margin-left: 10%;
+    position: relative;
+}
+
+h1{
+    margin: 0 auto;
+    width: 100%;
+    padding: 0%;
+}
+
+#home{
+    margin-right: 60%;
+    width: 50px;
+    height: 50px;
+}
